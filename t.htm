@@ -1,0 +1,47 @@
+<!doctype html>
+<head>
+  <script>
+
+function getStyle(elem, name) {
+    // J/S Pro Techniques p136
+    if (elem.style[name]) {
+        return elem.style[name];
+    } else if (elem.currentStyle) {
+        return elem.currentStyle[name];
+    }
+    else if (document.defaultView && document.defaultView.getComputedStyle) {
+        name = name.replace(/([A-Z])/g, "-$1");
+        name = name.toLowerCase();
+        s = document.defaultView.getComputedStyle(elem, "");
+        return s && s.getPropertyValue(name);
+    } else {
+        return null;
+    }
+}
+
+function init(){
+  var divs = document.getElementsByTagName('div');
+
+  for(var i = 0; i < divs.length; i++){
+    var ele = divs[i];
+    ele.onclick = (function(index){
+      return function(){
+        var bg = getStyle(this, 'backgroundColor')
+        this.style.backgroundColor = (bg === 'rgb(255, 255, 0)') ? '#ffdd44' : '#ffff00'
+      }
+    })(i);
+  }
+}
+  </script>
+<style>
+  div { height: 20px; margin: 5px; background-color: #ffff00; }
+</style>
+</head>
+<body onload=init()>
+  <div>0</div>
+  <div>1</div>
+  <div>2</div>
+  <div>3</div>
+  <div>4</div>
+</body>
+</html>

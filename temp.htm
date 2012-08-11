@@ -1,0 +1,51 @@
+<!doctype html>
+<head>
+<script>
+
+function X(css){
+
+  function el(id){ return document.getElementById(id);}
+  function tags(elm){return document.getElementsByTagName(elm);}
+
+  var out=[];
+  
+  if (css[0] == "#") {
+    out.push(el(css.slice(1)));
+  } else {
+    out = out.concat([].slice.call(tags(css)));
+  };
+
+  var meths = {
+    hide:   function(a){a.style.display="none";},
+    show:   function(a){a.style.display="";},
+    remove: function(a){a.parentNode.removeChild(a);},
+    color:  function(a){a.style.color=this||a.style.color;},
+    size:   function(a){a.style.fontSize=this||a.style.fontSize;}
+  };
+
+  // bind the methods to the collection array:
+  for (var meth in meths) {
+
+   (function(n,m){
+       out[n] = function (x){ out.map(m,x); return out;}
+    }(meth, meths[meth]))
+
+  };
+
+  return out;
+}
+
+function go() {
+  X("a").color("green").size("100px")
+}
+//X("#post_message_1066072").show();
+//X("#post_message_1066072").color("red");
+//X("img").remove();
+
+</script>
+</head>
+<body onload=go()>
+<a href="">Bob</a>
+<a href="">Dave</a>
+</body>
+</html>
