@@ -25,4 +25,4 @@ users.push(new User({name: 'Carl', age: 68}))
 
 var site = new Site(users)
 
-console.log(site.totalAge);
+console.log(site.names);

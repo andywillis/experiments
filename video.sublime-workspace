@@ -4,6 +4,122 @@
 		"selected_items":
 		[
 			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fi",
+				"first-child"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"sortBy",
+				"sortByColumn"
+			],
+			[
+				"col",
+				"col	Tag"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"n",
+				"nav	Tag"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"dashboard",
+				"dashboardData"
+			],
+			[
+				"spo",
+				"spotmapbody"
+			],
+			[
+				"spotmap",
+				"spotmapImg"
+			],
+			[
+				"das",
+				"dashboardStrip"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"dashbo",
+				"dashboardStrip"
+			],
+			[
+				"right",
+				"rightSidebar"
+			],
+			[
+				"cate",
+				"categoryList"
+			],
+			[
+				"b",
+				"inline-block"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"s",
+				"sub"
+			],
+			[
+				"display",
+				"display	display: common-types"
+			],
+			[
+				"displ",
+				"display	display: common-types"
+			],
+			[
+				"bac",
+				"background	background: color image repeat attachment position"
+			],
+			[
+				"p",
+				"padding	padding-bottom: length"
+			],
+			[
+				"category",
+				"categoryMenu"
+			],
+			[
 				"v",
 				"visibility	visibility: type"
 			],
@@ -44,20 +160,12 @@
 				"img"
 			],
 			[
-				"spo",
-				"spotW"
-			],
-			[
 				"spot",
 				"spotCount"
 			],
 			[
 				"row",
 				"rowCount"
-			],
-			[
-				"s",
-				"sortedrgbData"
 			],
 			[
 				"filename",
@@ -92,10 +200,6 @@
 				"logContents"
 			],
 			[
-				"n",
-				"numpy"
-			],
-			[
 				"current",
 				"currentMinute"
 			],
@@ -124,34 +228,42 @@
 	"buffers":
 	[
 		{
-			"file": "list.yaml",
+			"contents": " ",
 			"settings":
 			{
-				"buffer_size": 132,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "list.js",
-			"settings":
-			{
-				"buffer_size": 680,
+				"buffer_size": 1,
 				"line_ending": "Windows"
 			}
 		}
 	],
-	"build_system": "Packages/Nodejs/Nodejs.sublime-build",
+	"build_system": "Packages/JSLint/JSLint.sublime-build",
 	"command_palette":
 	{
-		"height": 311.0,
+		"height": 392.0,
 		"selected_items":
 		[
 			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
 				"Package Control: ",
-				"Package Control: Install Package"
+				"Package Control: Disable Package"
+			],
+			[
+				"jsl",
+				"JSLint"
+			],
+			[
+				"jslin",
+				"JSLint"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
 			]
 		],
-		"width": 400.0
+		"width": 416.0
 	},
 	"console":
 	{
@@ -168,134 +280,134 @@
 	},
 	"file_history":
 	[
-		"/C/Users/Andy/Development/code/live/video/base.js",
-		"/C/Users/Andy/Development/code/live/video/base3.js",
-		"/C/Users/Andy/Development/code/live/video/base2.js",
-		"/C/Users/Andy/Development/code/live/video/list.js",
-		"/C/Users/Andy/Development/code/live/video/count.js",
-		"/C/Users/Andy/Development/code/live/video/t.js",
-		"/C/Users/Andy/Development/code/live/video/temp.htm",
-		"/C/Users/Andy/Development/code/live/video/map.js",
-		"/C/Users/Andy/Development/code/live/video/index.htm",
-		"/C/Users/Andy/Development/code/live/video/clone.js",
-		"/C/Users/Andy/Development/code/live/video/mod.js",
-		"/C/Users/Andy/Development/code/live/video/hov.js",
-		"/C/Users/Andy/Development/code/live/video/t.htm",
-		"/C/Users/Andy/Development/code/live/video/index.js",
-		"/C/Users/Andy/Development/code/live/walk/temp.js",
-		"/C/Users/Andy/Development/code/live/walk/routes.js",
-		"/C/Users/Andy/Development/code/live/map/client/js/latlon.js",
-		"/C/Users/Andy/Development/code/live/map/server/map.html",
-		"/C/Users/Andy/Development/code/live/map/client/js/walks.js",
-		"/C/Users/Andy/Development/code/live/map/client/js/build.js",
-		"/C/Users/Andy/Development/code/live/map/client/js/things.js",
-		"/C/Users/Andy/Development/code/live/map/client/js/routes.js",
-		"/C/Users/Andy/Development/code/live/map/client/css/map.css",
-		"/C/Users/Andy/Development/code/live/map/client/js/geo.js",
-		"/C/Users/Andy/Development/code/live/map/client/js/scale.js",
-		"/C/Users/Andy/Development/code/live/map/client/js/googlemap.js",
-		"/C/Users/Andy/Development/code/live/map/client/js/jsonpath.js",
-		"/C/Users/Andy/Development/code/live/map/client/js/leaflet/leaflet.js",
-		"/C/Users/Andy/Development/code/live/map/client/js/leaflet/leaflet.css",
-		"/C/Users/Andy/Development/code/live/map/client/build.js",
-		"/C/Users/Andy/Development/code/live/map/client/map.css",
-		"/C/Users/Andy/Development/code/live/map/server/controller.js",
-		"/C/Users/Andy/Development/code/live/map/index.js",
-		"/C/Users/Andy/Development/code/live/map/build.js",
-		"/C/Users/Andy/Development/code/live/map/map.html",
-		"/C/Users/Andy/Development/code/live/map/data.js",
-		"/C/Users/Andy/Development/code/live/map/controller.js",
-		"/C/Users/Andy/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-		"/C/Users/Andy/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-		"/C/Users/Andy/Development/code/live/deviation/server/data/markdown/wip.md",
-		"/C/Users/Andy/Development/code/live/deviation/server/lib/config.js",
-		"/C/Users/Andy/Development/code/live/deviation/server/lib/app.js",
-		"/C/Users/Andy/Development/code/live/deviation/client/js/index.js",
-		"/C/Users/Andy/Development/code/live/deviation/server/data/templates/layout.template",
-		"/C/Users/Andy/Development/code/live/deviation/server/lib/controller.js",
-		"/C/Users/Andy/Development/code/live/deviation/server/lib/db.js",
-		"/C/Users/Andy/Development/code/live/deviation/client/js/ui-draggable.js",
-		"/C/Users/Andy/Development/code/live/deviation/client/js/ui-core.js",
-		"/C/Users/Andy/Development/code/live/deviation/client/css/deviation.css",
-		"/C/Users/Andy/Development/code/live/deviation/server/data/templates/post.template",
-		"/C/Users/Andy/Development/code/live/deviation/package.json",
-		"/C/Users/Andy/Development/code/live/deviation/client/css/blog.css",
-		"/C/Users/Andy/Development/code/live/deviation/client/js/scroll.js",
-		"/C/Users/Andy/Development/code/live/deviation/client/js/mousewheel.js",
-		"/C/Users/Andy/Development/code/live/deviation/server/data/templates/blogSidebar.template",
-		"/C/Users/Andy/Development/code/live/deviation/server/data/models/Note.js",
-		"/C/Users/Andy/Development/code/live/deviation/client/js/analytics.js",
-		"/C/Users/Andy/Development/code/live/deviation/client/js/ga.js",
-		"/C/Users/Andy/Development/code/live/deviation/server/data/models/Post.js",
-		"/C/Users/Andy/Development/code/live/deviation/server/data/templates/addPost.template",
-		"/C/Users/Andy/Development/code/live/deviation/server/lib/rss.js",
-		"/C/Users/Andy/Development/code/live/deviation/client/css/dashboard.css",
-		"/C/Users/Andy/Development/code/live/deviation/server/lib/router.js",
-		"/C/Users/Andy/Development/code/live/deviation/server/data/templates/header.template",
-		"/C/Users/Andy/Development/code/live/deviation/client/css/search.css",
-		"/C/Users/Andy/Development/code/live/deviation/server/lib/post.js",
-		"/C/Users/Andy/Development/code/live/deviation/server/lib/tag.js",
-		"/C/Users/Andy/Development/code/live/deviation/server/data/markdown/error.md",
-		"/C/Users/Andy/Development/code/live/deviation/server/data/templates/error.template",
-		"/C/Users/Andy/Development/code/live/deviation/server/lib/security.js",
-		"/C/Users/Andy/Development/code/live/deviation/index.js",
-		"/C/Users/Andy/Development/code/live/deviation/.gitignore",
-		"/C/Users/Andy/Development/code/live/deviation/server/data/markdown/tweetnation.md",
-		"/C/Users/Andy/Development/code/live/deviation/server/lib/_config.js",
-		"/C/Users/Andy/Development/code/live/deviation/server/lib/cache.js",
-		"/C/Users/Andy/Development/code/live/deviation/server/lib/markdown.js",
-		"/C/Users/Andy/Development/code/live/deviation/server/lib/template.js",
-		"/C/Users/Andy/Development/code/live/deviation/server/lib/server.js",
-		"/C/Users/Andy/Development/code/live/deviation/server/lib/core.js",
-		"/C/Users/Andy/Development/code/live/deviation/client/rss/deviation.rss",
-		"/C/Users/Andy/Development/code/live/deviation/server/data/templates/postRSS.template",
-		"/C/Users/Andy/Development/code/live/deviation/client/css/deviation - Copy.css",
-		"/C/Users/Andy/Development/code/live/deviation/server/lib/handler.js",
-		"/C/Users/Andy/Development/code/live/deviation/server/lib/canvas.js",
-		"/C/Users/Andy/Development/code/live/deviation/client/css/form.css",
-		"/C/Users/Andy/Development/code/live/deviation/server/data/templates/addForm.template",
-		"/C/Users/Andy/Development/code/live/deviation/.jitsuignore",
-		"/C/Users/Andy/Development/code/live/deviation/README.md",
-		"/C/Users/Andy/Development/code/live/deviation/run.bat",
-		"/C/Users/Andy/Development/code/live/deviation/server/data/models/Metric.js",
-		"/C/Users/Andy/Development/code/live/deviation/server/data/markdown/home.md",
-		"/C/Users/Andy/Development/code/live/deviation/lib/core.js",
-		"/C/Users/Andy/Development/code/live/deviation/lib/config.js",
-		"/C/Users/Andy/Development/code/live/deviation/lib/app.js",
-		"/C/Users/Andy/Development/code/live/deviation/lib/handler.js",
-		"/C/Users/Andy/Development/code/live/deviation/lib/db.js",
-		"/C/Users/Andy/Development/code/live/deviation/markdown/tweetnation.markdown",
-		"/C/Users/Andy/Development/code/live/deviation/public/css/deviation.css",
-		"/C/Users/Andy/Development/code/live/deviation/templates/header.template",
-		"/C/Users/Andy/Development/code/live/deviation/markdown/blog.markdown",
-		"/C/Users/Andy/Development/code/live/deviation/public/css/blog.css",
-		"/C/Users/Andy/Development/code/live/deviation/favicon.png",
-		"/C/Users/Andy/Development/code/live/tweetnation/tweetnation.sublime-workspace",
-		"/C/Users/Andy/Development/code/live/tweetnation/tweetnation.sublime-project",
-		"/C/Users/Andy/Development/code/live/tweetnation/twitter.sublime-project",
-		"/C/Users/Andy/Development/code/live/tweetnation/index.js",
-		"/C/Users/Andy/Development/code/live/tweetnation/lib/twitter-watcher.js",
-		"/C/Users/Andy/Development/code/live/tweetnation/lib/socketServer.js",
-		"/C/Users/Andy/Development/code/live/tweetnation/public/js/index.js",
-		"/C/Users/Andy/Development/code/live/twitter/public/css/twitter.css",
-		"/C/Users/Andy/Development/code/live/twitter/public/js/index.js",
-		"/C/Users/Andy/Development/code/live/twitter/lib/Twitter-watcher.js",
-		"/C/Users/Andy/Development/code/live/twitter/lib/socketServer.js",
-		"/C/Users/Andy/Development/code/live/twitter/lib/server.js",
-		"/C/Users/Andy/Development/code/live/twitter/lib/twitter.js",
-		"/C/Users/Andy/Development/code/live/twitter/templates/home.template",
-		"/C/Users/Andy/Development/code/live/twitter/lib/app.js",
-		"/C/Users/Andy/Development/code/live/twitter/public/js/_index.js",
-		"/C/Users/Andy/Development/code/live/twitter/lib/router.js",
-		"/C/Users/Andy/Development/code/live/twitter/lib/handler.js",
-		"/C/Users/Andy/Development/code/deviation/public/css/main.css",
-		"/C/Users/Andy/Development/code/deviation/handlers.js",
-		"/C/Users/Andy/Development/code/deviation/router.js",
-		"/C/Users/Andy/Development/code/deviation/index.js",
-		"/C/Users/Andy/Development/code/deviation/server.js",
-		"/C/Users/Andy/Development/code/deviation/config.js",
-		"/C/Users/Andy/Development/code/deviation/views/index.jade",
-		"/C/Program Files (x86)/Console2/console.xml"
+		"/C/Users/Andy/Development/code/live/experiments/codility.js",
+		"/C/Users/Andy/Development/code/live/experiments/experiments.sublime-workspace",
+		"/C/Users/Andy/Development/code/live/rez/client/scripts/app/Views/logCall.js",
+		"/C/Users/Andy/Development/code/live/rez/client/css/index.css",
+		"/C/Users/Andy/Development/code/live/rez/client/scripts/app/Templates/calls.htm",
+		"/C/Users/Andy/Development/code/live/rez/client/scripts/app/Views/header.js",
+		"/C/Users/Andy/Development/code/live/rez/client/scripts/app/Router/Router.js",
+		"/C/Users/Andy/Development/code/live/rez/client/index.htm",
+		"/C/Users/Andy/Development/code/live/rez/client/scripts/app/Collections/CallsCollection.js",
+		"/C/Users/Andy/Development/code/live/rez/client/scripts/app/Templates/logCall.htm",
+		"/C/Users/Andy/Development/code/live/rez/client/scripts/app/Views/control.js",
+		"/C/Users/Andy/Development/code/live/rez/index.js",
+		"/C/Users/Andy/Development/code/live/rez/scripts/app/Views/header.js",
+		"/C/Users/Andy/Development/code/live/rez/scripts/app/app.js",
+		"/C/Users/Andy/Development/code/live/rez/scripts/app/Router/Router.js",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/Views/control.js",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/lib/getRouter.js",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/lib/init.js",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/Router/Router.js",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/Views/logCall.js",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/Views/reports.js",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/Views/calls.js",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/lib/getModels.js",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/Templates/calls.htm",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/Collections/CallsCollection.js",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/data/data.js",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/Templates/logCall.htm",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/Templates/call.htm",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/lib/getCollections.js",
+		"/C/Users/Andy/Development/code/live/rez2/index.htm",
+		"/C/Users/Andy/Development/code/live/rez2/css/index.css",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/Models/Call.js",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/app.js",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/main.js",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/lib/getViews.js",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/Views/search.js",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/Views/home.js",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/Views/sidebar.js",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/Views/header.js",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/Views/footer.js",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/lib/Logger.js",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/lib/dateFormat.js",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/lib/core.js",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/lib/getClientInfo.js",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/Templates/search.htm",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/Templates/footer.htm",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/lib/getClientId.js",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/Templates/home.htm",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/Templates/header.htm",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/Models/Home.js",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/Collections/HomeCollection.js",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/Collections/home.js",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/Collections/ReportsCollection.js",
+		"/C/Users/Andy/Development/code/live/rez2/css/temp.css",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/lib/d3.js",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/Templates/control.htm",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app/Templates/reports.htm",
+		"/C/Users/Andy/Development/code/live/rez2/css/__index.css",
+		"/C/Users/Andy/Development/code/live/rez2/scripts/app.build.js",
+		"/C/Users/Andy/Development/code/live/rez2/js/main.js",
+		"/C/Users/Andy/Development/code/live/rez2/js/app/lib/getViews.js",
+		"/C/Users/Andy/Development/code/live/rez2/js/app/app.js",
+		"/C/Users/Andy/Development/code/live/rez2/js/app/lib/getTemplates.js",
+		"/C/Users/Andy/Development/code/live/rez2/js/app/Views/sidebar.js",
+		"/C/Users/Andy/Development/code/live/rez2/js/lib/core.js",
+		"/C/Users/Andy/Development/code/live/rez2/js/lib/dateFormat.js",
+		"/C/Users/Andy/Development/code/live/rez2/js/lib/getParamNames.js",
+		"/C/Users/Andy/Development/code/live/rez2/js/app/data/data.js",
+		"/C/Users/Andy/Development/code/live/rez2/js/app/Views/openCalls.js",
+		"/C/Users/Andy/Development/code/live/rez2/js/app/Views/calls.js",
+		"/C/Users/Andy/Development/code/live/rez2/js/app/Views/reports.js",
+		"/C/Users/Andy/Development/code/live/rez2/js/app/Views/logCall.js",
+		"/C/Users/Andy/Development/code/live/rez2/js/app/Views/control.js",
+		"/C/Users/Andy/Development/code/live/rez2/js/app/Views/controlView.js",
+		"/C/Users/Andy/Development/code/live/rez2/js/app/Templates/home.htm",
+		"/C/Users/Andy/Development/code/live/rez2/js/app/Views/home.js",
+		"/C/Users/Andy/Development/code/live/rez2/js/app/Templates/main.htm",
+		"/C/Users/Andy/Development/code/live/rez2/js/app/Views/temp.js",
+		"/C/Users/Andy/Development/code/live/rez2/js/app/lib/getCollections.js",
+		"/C/Users/Andy/Development/code/live/rez2/js/app/Models/sidebarItem.js",
+		"/C/Users/Andy/Development/code/live/rez2/js/app/Collections/SidebarCollection.js",
+		"/C/Users/Andy/Development/code/live/rez2/js/app/Templates/sidebar.htm",
+		"/C/Users/Andy/Development/code/live/rez2/js/app/Views/main.js",
+		"/C/Users/Andy/Development/code/live/rez/js/app/app.js",
+		"/C/Users/Andy/Development/code/live/rez/js/app/Collections/CallsCollection.js",
+		"/C/Users/Andy/Development/code/live/rez/js/main.js",
+		"/C/Users/Andy/Development/code/live/rez/js/app/data/data.js",
+		"/C/Users/Andy/Development/code/live/rez/css/index.css",
+		"/C/Users/Andy/Development/code/live/rez/js/app/Templates/openCalls.htm",
+		"/C/Users/Andy/Development/code/live/rez/js/lib/dateFormat.js",
+		"/C/Users/Andy/Development/code/live/rez/js/app/Models/Call.js",
+		"/C/Users/Andy/Development/code/live/rez/js/app/Collections/ReportsCollection.js",
+		"/C/Users/Andy/Development/code/live/rez/js/app/Views/header.js",
+		"/C/Users/Andy/Development/code/live/rez/js/app/Views/main.js",
+		"/C/Users/Andy/Development/code/live/rez/js/app/Templates/reports.htm",
+		"/C/Users/Andy/Development/code/live/rez/js/app/lib/getCollections.js",
+		"/C/Users/Andy/Development/code/live/rez/js/app/lib/getModels.js",
+		"/C/Users/Andy/Development/code/live/rez/js/app/lib/getViews.js",
+		"/C/Users/Andy/Development/code/live/rez/js/app/init.js",
+		"/C/Users/Andy/Development/code/live/rez/js/app/Templates/logCall.htm",
+		"/C/Users/Andy/Development/code/live/rez/js/app/getModels.js",
+		"/C/Users/Andy/Development/code/live/rez/js/app/Collections/CallCollection.js",
+		"/C/Users/Andy/Development/code/live/rez/js/app/Templates/header2.htm",
+		"/C/Users/Andy/Development/code/live/rez/js/app/Views/temp_header.js",
+		"/C/Users/Andy/Development/code/live/rez/js/app/Models/MenuItem.js",
+		"/C/Users/Andy/Development/code/live/rez/js/app/Collections/MenuItemCollection.js",
+		"/C/Users/Andy/Development/code/live/rez/js/app/Models/menuItem.js",
+		"/C/Users/Andy/Development/code/live/rez/js/app/Collections/menuItemCollection.js",
+		"/C/Users/Andy/Development/code/live/rez/js/app/Templates/header.htm",
+		"/C/Users/Andy/Development/code/live/rez/js/app/Views/footer.js",
+		"/C/Users/Andy/Development/code/live/rez/js/app/Views/footerView.js",
+		"/C/Users/Andy/Development/code/live/rez/js/app/Templates/main.htm",
+		"/C/Users/Andy/Development/code/live/rez/js/app/Views/mainView.js",
+		"/C/Users/Andy/Development/code/live/rez/js/app/Views/openCalls.js",
+		"/C/Users/Andy/Development/code/live/rez/css/_index.css",
+		"/C/Users/Andy/Development/code/live/rez/index.htm",
+		"/C/Users/Andy/Development/code/live/rez/js/app/Views/headerView.js",
+		"/C/Users/Andy/Development/code/live/rez/js/app/Templates/footer.htm",
+		"/C/Users/Andy/Development/code/live/rez/js/app/Templates/sidebar.htm",
+		"/C/Users/Andy/Development/code/live/rez/js/app/Templates/main.js",
+		"/C/Users/Andy/Development/code/live/rez/js/app/router.js",
+		"/C/Users/Andy/Development/code/live/rez/js/app/init/init.js",
+		"/C/Users/Andy/Development/code/live/rez/js/app/init/getModels.js",
+		"/C/Users/Andy/Development/code/live/rez/js/app/Models/Request.js",
+		"/C/Users/Andy/Development/code/live/rez/js/app/Collections/FaultsCollection.js",
+		"/C/Users/Andy/Development/code/live/rez/js/app/Collections/RequestsCollection.js",
+		"/C/Users/Andy/Development/code/live/rez/js/app/Models/Fault.js",
+		"/C/Users/Andy/Development/code/live/rez/js/app/Collections/Faults.js"
 	],
 	"find":
 	{
@@ -313,80 +425,175 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"seed",
-			"-18.",
-			"-18",
-			"cons",
-			"weight: 3",
-			"#close",
-			"/>' + ",
-			"_closeBu",
-			"js/",
-			"\"",
-			"over",
-			"blogS",
-			"z-",
-			"name: ",
-			", active: true",
-			"posts",
-			"ul",
-			"over",
-			"grid",
-			" p ",
-			"replace",
-			"z-",
-			"err",
-			"zoom",
-			"index",
-			"fav",
-			"cons",
-			"pageInfo",
-			"render",
-			"\"",
-			"app",
-			"handle",
-			"cache",
-			"console",
-			"addForm",
+			"foot",
+			"footn",
 			"label",
-			"\"",
-			"root",
-			"four",
-			"error",
-			"root",
-			"buildContent",
-			"public",
-			"tab",
-			"\"",
-			"<div class=\"lightpanel nav\">",
-			"print",
-			"'d'",
-			"\\\\",
-			"bgc",
-			"tg",
-			"border",
-			"spot.",
-			"{\"name\"",
-			".",
-			"\n	",
-			"'",
-			"\n'",
-			"\\t",
-			" ",
-			" 1",
-			" 0",
-			"    "
+			"input",
+			"form",
+			"datata",
+			".datat",
+			"p1",
+			".header",
+			"#header",
+			"#main",
+			" th",
+			"th",
+			"nav",
+			"h1",
+			"contain",
+			"navabout",
+			"http://static.lukew.com/lukew_sprite_06072012.png",
+			"a ",
+			"about",
+			"border-left",
+			"hover",
+			"writings",
+			"tabl",
+			"calls",
+			" class=\"hundred\"",
+			"rem",
+			"text-",
+			"date: new Date(), ",
+			"faul",
+			"req",
+			"footer",
+			"this.$",
+			".$",
+			"location",
+			"tNew",
+			"con",
+			"found",
+			"con",
+			"renderHTML(reqObj, content, res)",
+			"stack",
+			"con",
+			"loadit",
+			"add",
+			"delete",
+			"blockq",
+			"blo",
+			"h3",
+			"ul",
+			"thing",
+			"api",
+			"nosc",
+			"text-",
+			"blog",
+			")\n",
+			"blog",
+			"loadsp",
+			",	div.spotmap div.description",
+			",	div.spotmap div.description p",
+			",	div.spotmap div.description",
+			"div.post p",
+			"div.textpostbody",
+			"div.textpostbody p",
+			"right",
+			"#cat",
+			"img",
+			"im",
+			"div.strips div.post",
+			"div.strips div.spotmap",
+			"div.post u",
+			"div.post ul",
+			"div.textpostbody ",
+			"taglist",
+			".category",
+			"#tag",
+			"div.taglist",
+			".cate",
+			"span",
+			".post",
+			"h2",
+			"#spotmaps",
+			"post",
+			"clear",
+			"textpostbody",
+			"img",
+			"img.",
+			"img",
+			".post",
+			"posts",
+			"h3",
+			"push",
+			"wrapp",
+			"footer",
+			"dashboard",
+			".pus",
+			"clear",
+			"height",
+			"tagLi",
+			"rightS",
+			"dashboard",
+			"img",
+			"LI",
+			"rgba(10,10,30,0.4)",
+			"0.2px",
+			"posts",
+			"canvas",
+			"wrap",
+			";",
+			"writ",
+			"deleteSpotmap",
+			"deletePost",
+			"post",
+			"delete",
+			"sort",
+			"db",
+			"us",
+			"_",
+			"db",
+			"add",
+			"app",
+			"dataset",
+			"_",
+			"blog",
+			"posts",
+			"bold",
+			"_",
+			"pathInfo",
+			"_"
 		],
 		"highlight": true,
 		"in_selection": false,
-		"preserve_case": false,
+		"preserve_case": true,
 		"regex": false,
 		"replace_history":
 		[
-			"proto",
-			"-24.",
-			"weight: 1",
-			"client/",
+			"../image/lukew_sprite_06072012.png",
+			"",
+			"em",
+			"date; formattedDate",
+			"tPoint",
+			"renderHTML(reqObj, res, content)",
+			",	div.spotmap div.description p",
+			",	div.spotmap div.description",
+			",	div.spotmap div.description p",
+			"div.strips div.poststrip",
+			"div.strips div.spotmapstrip",
+			"#spotmapGallery",
+			"rgba(255,255,255,0.4)",
+			"2px",
+			"",
+			"deleteItem",
+			"reqObj",
+			"	console.log(reqObj);\nreqObj",
+			"",
+			"*",
+			"",
+			"*",
+			"spotmap",
+			"#spotmaps",
+			"",
+			"spotmap",
+			"\"",
+			"client",
+			"<ul>\\n",
+			"#radio",
+			", '<",
+			"",
+			"leftSidebar",
+			"pathInfo.rest.action",
 			"",
 			"pathInfo",
 			"'",
@@ -414,56 +621,28 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "list.yaml",
 					"settings":
 					{
-						"buffer_size": 132,
+						"buffer_size": 1,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1,
+								1
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/YAML/YAML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "list.js",
-					"settings":
-					{
-						"buffer_size": 680,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -505,6 +684,18 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 149.0
+	},
+	"output.git":
+	{
+		"height": 106.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 94.0
+	},
 	"replace":
 	{
 		"height": 62.0
@@ -530,6 +721,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 184.0,
+	"side_bar_width": 295.0,
 	"status_bar_visible": true
 }

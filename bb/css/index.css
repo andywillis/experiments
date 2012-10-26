@@ -1,0 +1,21 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700,300,400italic,600,600italic,300italic);
+
+*
+  { font-family: 'Corbel', serif;}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section
+
+  { display: block; }
+
+body 
+
+  { background-color: rgba(30,30,40,1) }
+
+h1
+
+  { color: rgba(180,180,180,1);
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 0px;
+    text-transform: uppercase;
+  }
