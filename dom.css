@@ -1,7 +1,13 @@
-* {font-family: verdana; font-size: 14px}
-#link:hover {cursor: pointer;}
+* {font-family: verdana; font-size: 18px}
+#link:hover {cursor: pointer; color: red;}
 ul {width: 100px; background-color: rgba(240,240,240,1a)}
 
 .on {color: red;}
 .off {color: green;}
 table {width: 99%}
+.bold {font-weight: bold;}
+th {text-align: left;}
+td.first {width: 80%;}
+td.first span {float: left; clear: left;}
+table {border-collapse: collapse;}
+td {padding: 10px; border: 1px solid rgba(245,245,245,1);};

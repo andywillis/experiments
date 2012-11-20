@@ -1,5 +1,6 @@
-<!doctype html>
+<doctype html>
 <head>
+<meta charset='utf-8'>
 <script>
 
 function X(css){
@@ -28,15 +29,15 @@ function X(css){
 
    (function(n,m){
        out[n] = function (x){ out.map(m,x); return out;}
-    }(meth, meths[meth]))
+    })(meth, meths[meth])
 
   };
-
+console.log(out)
   return out;
 }
 
 function go() {
-  X("a").color("green").size("100px")
+  X("a").color("red").size("30px")
 }
 //X("#post_message_1066072").show();
 //X("#post_message_1066072").color("red");
