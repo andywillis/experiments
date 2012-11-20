@@ -1,0 +1,7 @@
+* {font-family: verdana; font-size: 14px}
+#link:hover {cursor: pointer;}
+ul {width: 100px; background-color: rgba(240,240,240,1a)}
+
+.on {color: red;}
+.off {color: green;}
+table {width: 99%}
