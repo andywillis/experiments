@@ -1,0 +1,52 @@
+html,body,body div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,figure,footer,header,hgroup,menu,nav,section,time,mark,audio,video{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent;}
+article,aside,figure,footer,header,hgroup,nav,section{display:block;}
+.clear{clear:both;display:block;overflow:hidden;visibility:hidden;width:0;height:0;}
+.clearfix:after{clear:both;content:'-';display:block;font-size:0;line-height:0;visibility:hidden;width:0;height:0;}
+a,body{color:#32323c;}
+.icon a{color:#7fb5e5;}
+.feedPrice,.feedName{color:#646464;}
+.red{color:#ff0000;}
+.green{color:#64c864;}
+.neutral{color:#32323c;}
+#sparkSwitch{color:#32323c;}
+#sparkSwitch{background-color:#accabd;}
+#sparkSwitch:hover{background-color:#98b6a9;}
+header[role="banner"]{background-color:#ffffff;}
+body{background-color:#7fb5e5;}
+.feed{background-color:#ffffff;}
+.icon{background-color:#ffffff;}
+ul{list-style:none;}
+a{text-decoration:none;}
+#sparkSwitch,.icon{cursor:pointer;}
+#feedsInfo{display:none;}
+h1,#sparkSwitch,.icon,#feeds{display:inline-block;}
+.feed,.down,.up,.feedPrice{float:left;}
+#sparkSwitch,#content,header#banner{padding:1em 1em 1em 1em;}
+.feed{padding:10px 10px 10px 10px;}
+.down,.up{padding:10px;}
+.feed{margin:5px 5px 5px 5px;}
+.group{margin:0px 5px 0px 5px;}
+header#banner,#content{margin:0 auto;}
+#sparkSwitch{margin-left:80px;}
+.feed div{margin:0px 10px 5px 10px;}
+.icon{margin-right:5px;}
+.range div:nth-child(2){margin-left:15px;}
+div.spark{margin-top:10px;}
+.icon{height:25px;}
+div.spark{height:30px;}
+header#banner,#content{width:99%;}
+.down,.up{width:1em;}
+.feedPrice{width:3.8em;}
+.icon{width:25px;}
+.up:before{content:'\25B2';}
+.down:before{content:'\25BC';}
+@font-face{font-family:'Neue';font-style:normal;font-weight:100;src:local('Open Sans'),url(/fonts/Open Sans/OpenSans-CondBold.ttf) format('truetype');}body{text-rendering:optimizeLegibility;}
+body{font:normal 100% 'Open Sans',Arial,sans-serif;}
+h1{font-size:1.5em;}
+.up,.down{font-size:2em;}
+.feedPrice{font-size:2em;}
+.feedName{font-size:1.5em;}
+.change,.range,.perchange{text-align:left;}
+.feedPrice,.feedName{text-align:center;}
+.icon,.feedPrice,.feedName{font-weight:bold;}
+@media only screen and (min-width:20em){body{font-size:100%;} h1{font-size:200%;}}@media only screen and (min-width:30em){body{font-size:110%;}}@media only screen and (min-width:37.5em){}@media only screen and (min-width:48em){body{font-size:130%;}}@media only screen and (min-width:56.25em){body{font-size:120%;} h1{font-size:250%;}}@media only screen and (min-width:68.75em){}@media only screen and (min-width:81.25em){}@media only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-device-pixel-ratio:1.5){}

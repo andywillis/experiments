@@ -1,0 +1,8 @@
+#clock {font-family: arial, sans-serif}
+#clock {font-size: 90px}
+
+#clock {margin: 0 auto;}
+#clock {margin-top: 100px;}
+#clock {width: 370px;}
+
+span.digit {margin: 10px;}

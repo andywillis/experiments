@@ -1,0 +1,110 @@
+/* OTHER */
+
+#buttons { list-style: none }
+.button:hover { cursor: pointer }
+
+/* BORDERS */
+
+.button {
+  -webkit-border-top-left-radius: 12px; 
+  -moz-border-top-left-radius: 12px; 
+  border-top-left-radius: 12px;
+  -webkit-border-top-right-radius: 12px; 
+  -moz-border-top-right-radius: 12px; 
+  border-top-right-radius: 12px;
+}
+
+.button {
+  border-top: 2px solid rgba(20,20,30,1);
+  border-left: 2px solid rgba(20,20,30,1);
+  border-right: 2px solid rgba(20,20,30,1);
+}
+
+#stop {
+  border-top: 2px solid rgba(255,0,0,1);
+  border-left: 2px solid rgba(255,0,0,1);
+  border-right: 2px solid rgba(255,0,0,1);
+}
+
+#clock,
+#display { 
+  -webkit-border-radius: 24px; 
+  -moz-border-radius:24px; 
+  border-radius:24px; 
+}
+
+#display { border: solid 1px rgba(10,10,10,1) }
+#clock { border: solid 10px rgba(130,130,130,1) }
+
+/* COLORS */
+
+.button.notToggle:hover { background-color: rgba(190,190,190,0.5)}
+#body { background-color: rgba(20,20,30,1) }
+.button { background-color: rgba(130,130,130,1) }
+.currentOn { background-color: rgba(30,100,30,1) }
+#display { background-color: rgba(10,10,10,1) }
+.time { color: rgba(255,255,255,1) }
+.currentOn { color: white }
+.time { text-shadow: 0 0 5px #00c6ff }
+
+#clock {
+  background-image: -ms-linear-gradient(bottom, #575757 0%, #000305 100%);
+  background-image: -moz-linear-gradient(bottom, #575757 0%, #000305 100%);
+  background-image: -o-linear-gradient(bottom, #575757 0%, #000305 100%);
+  background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0, #575757), color-stop(1, #000305));
+  background-image: -webkit-linear-gradient(bottom, #575757 0%, #000305 100%);
+  background-image: linear-gradient(to top, #575757 0%, #000305 100%);
+  }
+
+#clock {
+  -webkit-box-shadow: 1px 1px 0 rgba(0,0,0,.75) inset;
+  -moz-box-shadow: 1px 1px 0 rgba(0,0,0,.75) inset;
+  -ms-box-shadow: 1px 1px 0 rgba(0,0,0,.75) inset;
+  -o-box-shadow: 1px 1px 0 rgba(0,0,0,.75) inset;
+  box-shadow: 1px 1px 0 rgba(0,0,0,.75) inset, -1px -1px 1px rgba(255,255,255,.25) inset, 1px 1px 5px rgba(0,0,0,.75);
+}
+
+/* PADDING */
+
+* { padding: 0 }
+.button { padding: 5px 10px 5px 10px }
+#display { overflow: hidden }
+
+/* POSITIONING */
+
+.button { display: inline-block }
+
+#outer,
+#clock,
+#display { position: relative }
+
+#buttons { margin: 0px 0px 0px 20px }
+.time { margin-left: 30px }
+.divider { margin-left: 43px }
+#display { margin: 0 auto }
+#display { margin-top: 40px }
+.time { position: absolute }
+.time { float: left }
+.time { bottom: 5px }
+
+#start,
+#stop,
+#reset { text-align: center }
+
+/* DIMENSIONS */
+
+#start,
+#stop,
+#reset { width: 70px }
+
+#clock { width: 800px }
+#clock { height: 220px }
+#display { width: 680px }
+#display { height: 140px }
+.time { width: 50px }
+
+/* FONTS */
+
+* { font-family: verdana, sans-serif }
+.time { font-size: 110px }
+.button { font-size: 20px }

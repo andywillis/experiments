@@ -1,0 +1,53 @@
+<html> 	
+    <head> 
+        <title>Javascript Dropdown Example</title> 
+        <style type="text/css"> 
+            #hide{
+                display: none;
+                background-color: #68D;  
+                border: 1px solid #000;
+                width: 80px;
+            }
+        </style> 
+        <script type="text/javascript"> 
+            function showDropDown(e) {
+                 document.getElementById('test').onclick = function(){};
+                 if(e.stopPropagation)
+									e.stopPropagation();   // W3C model
+                 else
+									e.cancelBubble = true; // IE model
+									document.getElementById("hide").style.display = "block";
+									document.onclick = function(e){
+									var ele = document.elementFromPoint(e.clientX, e.clientY);
+									if(ele == document.getElementById("test")){
+                     hideDropDown();
+                     return;
+									}
+									do{
+                     if(ele == document.getElementById("hide"))
+                     return;
+									}	while(ele = ele.parentNode);
+									hideDropDown();
+                 };
+            }
+
+							function hideDropDown(){
+                document.onclick = function(){};
+                document.getElementById("hide").style.display = "none";
+                document.getElementById('test').onclick = showDropDown;
+            }
+        </script> 
+    </head> 
+    <body> 
+        <a href="#" id="test">Hello Mohd</a> 
+
+        <div id="hide"> 
+            <p>Hii All<p></p>Hw r u</p> 
+            <p><a href="#">Sign Out</a></p> 
+        </div> 
+
+    </body>
+    <script type="text/javascript">
+        document.getElementById('test').onclick = showDropDown;
+    </script>
+</html>
