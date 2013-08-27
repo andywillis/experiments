@@ -1,0 +1,92 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width">
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+        <!-- build:css(.tmp) styles/main.css -->
+        <link rel="stylesheet" href="styles/main.css">
+        <!-- endbuild -->
+        <!-- build:js scripts/vendor/modernizr.js -->
+        <script src="bower_components/modernizr/modernizr.js"></script>
+        <script src="bower_components/jquery/jquery.js"></script>
+        <!-- endbuild -->
+    </head>
+    <body>
+  <div id="vendagroup">true</div>
+    <div class="container">
+        <div class="box">History <span class="history"></span>: <span class="back">&lt;&lt;</span> <span class="forward">>></span><br/><pre><code id="codeView"></code></pre></div>
+        <div class="buttons">
+            <button class="root">Root</button>
+            <button class="query_options">Query options</button>
+            <button class="weightings">Weightings</button>
+            <button class="fields">Facets / Fields</button>
+            <button class="ranges">Facets / Ranges</button>
+        </div>
+        <div class="template home">
+            <h3>The Venda Solr JSON config interface.</h3><hr>
+            <p>Click one of the buttons above to choose which area of the JSON you wish to amend.</p>
+            <hr/>
+            <p><span class="orange">QUERY OPTIONS</span> - only available for those in the Venda Group.</p>
+            <p><span class="orange">HISTORY</span> - there is a history feature located at the top of the code window that will allow you to go back and forth through the changes you've made.</p>
+            <p><span class="orange">SAVE</span> - at any time.</p>
+        </div>
+        <div class="template root">
+            <h3>Root</h3><hr>
+            <p>Root contains all those properties in the root of configuration tree that are themselves not containers for other properties.
+            <div class="details"></div>
+        </div>
+        <div class="template query_options">
+            <h3>Query options</h3><hr>
+            <div class="details"></div>
+        </div>
+        <div class="template weightings">
+            <h3>Weightings</h3><hr>
+            <p>Show available types from the dropdown list, or enter a type prefixed with <span class="italic">'pdxt'</span>.
+            <div class="details"></div>
+        </div>
+        <div class="template fields">
+            <h3>Fields</h3><hr>
+            <p>Show available array types from the dropdown list, or enter a type prefixed with <span class="italic">'pdxt'</span>.
+            <div class="details"></div>
+        </div>
+        <div class="template ranges">
+            <h3>Ranges</h3><hr>
+            <p>Choose an available type and then enter a range into the <span class="italic">value</span> input box in the following format: <pre><code>[number]...[number]</code></pre> where both numbers are whole integers, and the first number is greater than zero and less than the second number. There is currently no limit to the size of the second number.</br>
+            <div class="details"></div>
+        </div>
+        <div class="bottom">
+            <button class="save">Save changes</button>
+            <div class="notification"></div>
+            <button class="home">Home</button>
+        </div>
+        <div class="floater"></div>
+        <div id="json">{"query_options":{"mm":"100%","facet.mincount":"1","fq":"categories:shop"},"weightings":{"description":"1","name":"1","parentCategoryName":"1","sku":"1"},"display_out_of_stock":"1","facets":{"fields":["categories","type","brand","atrattrvalue1","pdxtfoo"],"ranges":{"price":{"from":"0","to":"*"}}},"ignore_empty_refinements":"1","maxperpage":"1000","perpage":"12"}</div>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+        <script>
+            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+            e.src='//www.google-analytics.com/analytics.js';
+            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+            ga('create','UA-XXXXX-X');ga('send','pageview');
+        </script>
+
+        <!-- build:js scripts/main.js -->
+        <script src="scripts/util-0.0.1.js"></script>
+<!--        <script src="scripts/main.js"></script>-->
+        <script src="scripts/main.js"></script>
+        <!-- endbuild -->
+
+</body>
+</html>

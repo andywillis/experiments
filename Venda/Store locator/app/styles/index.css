@@ -1,0 +1,65 @@
+html { height: 100% }
+body { height: 100%; margin: 0; padding: 0; font-family: Verdana; font-size: 1.0em; }
+.main { width: 1200px; margin-top: 30px; margin-left: auto; margin-right: auto; }
+.input { text-align: center; margin: 10px; }
+h4 { margin: 2px; font-size: 1.4em; color: rgb(100,35,35); }
+#postcode { width: 400px; font-size: 1.4em; color: rgb(100,35,35); text-align: center;}
+#map { width: 600px; height: 400px; float: left; border: 2px solid rgb(0,0,20);}
+#info { margin-left: 20px; width: 550px; float: left; background-color: rgb(192,222,237); padding: 10px; display: none;}
+#instructions { clear: both; float: left; width: 600px; margin-top: 20px;}
+#wrap {float: left; width: 600px;}
+
+.results {margin-top: 20px;}
+.storeInfo {
+	background-color: white;
+	padding: 5px;
+	border-left: 1px solid #dfdfdf;
+	border-top: 1px solid #dfdfdf;
+	border-bottom: 1px solid #FFFFFF;
+	border-right: 1px solid #dfdfdf;
+}
+
+.postcodeError {
+	background-color: rgb(200, 100, 100);
+	color: white;
+	padding: 5px;
+	border-left: 1px solid #dfdfdf;
+	border-top: 1px solid #dfdfdf;
+	border-bottom: 1px solid #FFFFFF;
+	border-right: 1px solid #dfdfdf;
+	text-align: center;
+}
+
+.twenty {margin: 20px 0 20px 0}
+
+.limit {width:20px;}
+
+.infoOpen {
+	-webkit-box-shadow:  2px 2px 2px 1px rgba(50, 50, 100, 1);
+	-moz-box-shadow:  2px 2px 2px 1px rgba(50, 50, 100, 1);
+	box-shadow:  2px 2px 2px 1px rgba(50, 50, 100, 1);
+}
+.storeInfo:hover { cursor: pointer; }
+.storeInfo:last-child { border-top: 1px solid #dfdfdf; border-bottom: 1px solid #dfdfdf; }
+.heading { height: 37px; }
+.number { float: left; margin-right: 1.0em; }
+/*.number { background-color: white; font-size: 1.1em; float: left; margin-right: 1.0em; width: 30px; border: 1px solid #888888; text-align: center; padding: 2px 4px 2px 4px; border-radius: 5px;}*/
+.town { float: left; }
+
+.zoom, .route { float: right; padding: 0 10px 0 10px; /*height: 25px; width: 25px;*/}
+.zoom:hover, .route:hover { cursor: pointer; }
+.route {border-left: 1px solid black;}
+
+/*
+.zoom {  background-image: url('data/zoom_grey.png'); }
+.zoom:hover { background-image: url('data/zoom_blue.png');}
+.route { background-image: url('data/route_grey.png'); margin-right: 10px;}
+.route:hover { background-image: url('data/route_blue.png'); }*/
+
+table { background-color: white; width: 100%; border-collapse: collapse; font-size: 0.8em;}
+td { padding: 10px; border: 1px solid #dfdfdf; }
+.storeInfo .label { text-align: right; width: 150px; vertical-align: top; font-weight: bold;}
+#instructions .label { text-align: right; width: 150px; vertical-align: top; }
+.infoClosed:hover { background-color: #efefef; }
+.storeInfo .table { clear: both; display: none; margin: 10px; }
+.step {font-weight: bold; text-align: center; color: #E60000;}
