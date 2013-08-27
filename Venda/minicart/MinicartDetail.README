@@ -1,0 +1,60 @@
+  /**
+   * Options for the minicart constructor.
+   * -----
+   * ENDPOINTS - either concrete links, or DOM node references.
+   * -----
+   * details:             The minicart details page (AJAX)
+   * basket:              The Venda basket page.
+   * checkout:            The Venda checkout page.
+   * addProduct:          The add product workflow (AJAX).
+   * -----
+   * NODES - the responsive showcase has one minicart that is updated in two
+   *         different places in the HTML, the first in the header for the
+   *         dropdown, the second in the offcanvas nav. They share the same
+   *         classes (see: general) so that both areas can be updated at once
+   *         when new minicart data is loaded. Otherwise they have different
+   *         ids identifying them.
+   * -----
+   * general:             The wrapper and details classes for both minicart
+   *                      areas.
+   * dropdown:            Specific node description for the dropdown minicart,
+   *                      comprising the node to which it's attached, the main
+   *                      wrapper, and the content, details, header
+   *                      and footer sections.
+   * offcanvas:           The wrapper for the offcanvas minicart.
+   * buttonUp:            Top scroll button.
+   * buttonDown:          Bottom scroll button.
+   * form:                Product form.
+   * totalItems:          The node holding the item count
+   * totalItemsTiny:      The node holding the item text (mobile)
+   * totalItemsText:      The node holding the item text
+   * totalPrice:          The node holding the total price.
+   * addProduct:          The add to basket button.
+   * productUpdate:       The node that wraps the 'add' buttons.
+   * productUpdateMulti:  The node that wraps the 'add' buttons.
+   * quantity:            The node holding the submitted quantity value.
+   * notifyTemplate:      The node holding the notification template.
+   * notify:              The node holding the notification when it appears.
+   * productName:         The node holding the product name value.
+   * attStyles:           The product attribute format (dropdown, swatch,
+   *                      halfswatch).
+   * labels:              List of attribute labels for use in the notification.
+   * -----
+   * OTHER - user-adjustable options.
+   * -----
+   * device:              Device type used to view the page.
+   * durations:           Various durations used for interval evaluations.
+   * showAfterAddProd:    Does the minicart appear after a product has been
+   *                      added.
+   * showNotifications:   Toggle to turn on/off the notifications.
+   * appendNotify:        Signifies whether the notification is to be appended
+   *                      to the productUpdate node. If false, it is prepended.
+   * highlight:           Highlighting on/off.
+   * scrollSpeed:         Scroll speed of the up/down scroll buttons when the
+   *                      mousebutton is held down. Usually set to 40.
+   * autoload:            Load the minicart on page load.
+   * animOpen:            Use a sliding action to open the dropdown minicart.
+   * largeDeviceSmoothScroll:  Allows users of desktop devices to hold the mouse
+   *                           button down for smooth scrolling.
+   *                           
+   */
