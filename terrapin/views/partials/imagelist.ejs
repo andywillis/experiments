@@ -1,0 +1,8 @@
+<!--<% if (count > 0) { %><button class="imagetag-previouspage"><< Previous</button><% } %>-->
+<% imagelist.forEach(function(image, i) { %>
+    <div class="imagetag-ig-container" data-link="<%= image.link %>" data-url="<%= image.url %>">
+        <img class="imagetag-image" src="<%= image.url %>"/>
+        <div class="imagetag-count"><%= count + 1 + i %></div>
+    </div>
+<% }); %>
+<button class="imagetag-nextpage">Next >></button>

@@ -1,0 +1,28 @@
+{
+  "name": "terrapin",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andywillis/terrapin.git"
+  },
+  "author": "Andy Willis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andywillis/terrapin/issues"
+  },
+  "homepage": "https://github.com/andywillis/terrapin#readme",
+  "dependencies": {
+    "backbone.marionette": "^2.4.2",
+    "body-parser": "^1.13.3",
+    "connect": "^3.4.0",
+    "ejs": "^2.3.3",
+    "express": "^4.13.1",
+    "instagram-node": "^0.5.7"
+  }
+}

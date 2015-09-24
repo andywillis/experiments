@@ -1,0 +1,49 @@
+*, h1, h2, h3 {
+    font-family: Georgia;
+}
+
+body {
+  padding: 20px;
+}
+
+h2, h3 {
+  padding: 10px;
+  text-transform: uppercase;
+  background-color: #dfdfdf
+}
+
+/* Module sass */
+
+.imagetag-ig-container, .imagetag-ns-container {
+  display: inline-block;
+  cursor: pointer;
+  padding: 5px;
+  margin: 5px;
+  background-color: white;
+}
+
+.imagetag-image {
+  width: 150px;
+  height: 150px;
+  border: 5px solid white;
+}
+
+.imagetag-count {
+  text-align: center;
+  font-size: 24px;
+}
+
+.imagetag-nextpage, .imagetag-previouspage {
+  padding: 10px;
+  font-size: 24px;
+  margin-left: 20px;
+}
+
+.imagetag-remove {
+  width: 100%;
+  background-color: #ff9999
+}
+
+.imagetag-added {
+  background-color: #55bb55;
+}

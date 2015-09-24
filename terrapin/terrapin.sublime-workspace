@@ -1,0 +1,651 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"c",
+				"cursor"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"Wizard",
+				"WizardModule"
+			],
+			[
+				"Confirmat",
+				"ConfirmationView"
+			],
+			[
+				"artist_v",
+				"artist_view_tpl"
+			],
+			[
+				"unit",
+				"unittest-tape"
+			],
+			[
+				"smoke",
+				"smoketest-caspter"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"bind_",
+				"bind_contactloaded"
+			],
+			[
+				"rule_e",
+				"rule_emailpasswordresetform"
+			],
+			[
+				"rule_form",
+				"rule_formpasswordreset"
+			],
+			[
+				"passwordreset",
+				"passwordreset"
+			],
+			[
+				"rule_fo",
+				"rule_shopcartform"
+			],
+			[
+				"rule_o",
+				"rule_ordersummaryformgiftcert"
+			],
+			[
+				"rule_r",
+				"rule_reminderform"
+			],
+			[
+				"rule_",
+				"rule_dtsform"
+			],
+			[
+				"formmoda",
+				"formmodal"
+			],
+			[
+				"method",
+				"method_cardexpiry"
+			],
+			[
+				"formmod",
+				"formmodal"
+			],
+			[
+				"character",
+				"charactersCount"
+			],
+			[
+				"plugin_multiadd2",
+				"plugin_multiadd2_swatchimage"
+			],
+			[
+				"attributes",
+				"attributesUI"
+			],
+			[
+				"test",
+				"testandbuild"
+			],
+			[
+				"build",
+				"buildexternal"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"last_filter": "Package Control: en",
+		"selected_items":
+		[
+			[
+				"Package Control: en",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: l",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: e",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: di",
+				"Package Control: Disable Package"
+			],
+			[
+				"nodejs",
+				"Nodejs::Default File Settings"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 384.0,
+		"history":
+		[
+			"ggggg",
+			"jshint",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/awillis/Development/git/terrapin",
+		"/Users/awillis/Development/git/terrapin/lib",
+		"/Users/awillis/Development/git/terrapin/public",
+		"/Users/awillis/Development/git/terrapin/public/javascript",
+		"/Users/awillis/Development/git/terrapin/public/javascript/route",
+		"/Users/awillis/Development/git/terrapin/public/stylesheet"
+	],
+	"file_history":
+	[
+		"/Users/awillis/Development/git/terrapin/public/javascript/app.js",
+		"/Users/awillis/Development/git/terrapin/public/javascript/main.js",
+		"/Users/awillis/Development/git/terrapin/public/javascript/route/client.js",
+		"/Users/awillis/Development/git/terrapin/public/javascript/view/clientgallery.js",
+		"/Users/awillis/Development/git/terrapin/routes/client.js",
+		"/Users/awillis/Development/git/terrapin/routes/home.js",
+		"/Users/awillis/Development/git/terrapin/lib/render.js",
+		"/Users/awillis/Development/git/terrapin/public/javascript/router.js",
+		"/Users/awillis/Development/git/terrapin/index.js",
+		"/Users/awillis/Development/git/terrapin/views/pages/client.ejs",
+		"/Users/awillis/Development/git/terrapin/views/pages/index.ejs copy",
+		"/Users/awillis/Development/OperationMongoose/Modules/Efficiencies/Artist@dev/JavaScript/Artist.List.View.js",
+		"/Users/awillis/Development/git/terrapin/views/pages/index.ejs",
+		"/Users/awillis/Development/git/terrapin/public/javascript/view/image.js",
+		"/Users/awillis/Development/git/terrapin/public/javascript/view/usergallery.js",
+		"/Users/awillis/Development/git/terrapin/public/javascript/route/home.js",
+		"/Users/awillis/Development/git/vendatemplates/htdocs/content/ebiz/shop/resources/js/Venda/modules/utilities/utilities.js",
+		"/Users/awillis/Google Drive/tunes.md",
+		"/Users/awillis/Development/git/terrapin/public/stylesheet/main.css",
+		"/Users/awillis/Development/git/terrapin/public/javascript/collection/images.js",
+		"/Users/awillis/Development/git/terrapin/public/main.js",
+		"/Users/awillis/Development/git/terrapin/views/partials/header.ejs",
+		"/Users/awillis/Development/git/terrapin/public/template/image.tpl",
+		"/Users/awillis/Development/OperationMongoose/Modules/suitecommerce/Backbone.CompositeView@1.0.0/JavaScript/Backbone.CompositeView.js",
+		"/Users/awillis/Downloads/tunes.md",
+		"/Users/awillis/Development/git/terrapin/public/javascript/text.js",
+		"/Users/awillis/Development/OperationMongoose/Modules/suitecommerce/Backbone.CollectionView@1.0.0/JavaScript/Backbone.CollectionView.js",
+		"/Users/awillis/Development/OperationMongoose/Modules/suitecommerce/Backbone.CollectionView@1.0.0/Templates/backbone_collection_view_cell.tpl",
+		"/Users/awillis/Development/OperationMongoose/Modules/suitecommerce/Backbone.CollectionView@1.0.0/Templates/backbone_collection_view_row.tpl",
+		"/Users/awillis/Development/OperationMongoose/Modules/suitecommerce/Backbone.CompositeView@1.0.0/JavaScript/Backbone.CompositeView.Fade.js",
+		"/Users/awillis/Development/git/terrapin/public/templates/usergallery.tpl",
+		"/Users/awillis/Development/git/terrapin/public/templates/image.tpl",
+		"/Users/awillis/Development/OperationMongoose/Modules/Efficiencies/Artist@dev/Templates/artist_details.tpl",
+		"/Users/awillis/Development/git/terrapin/public/javascript/_main.js",
+		"/Users/awillis/Development/git/terrapin/views/partials/managementgallery.ejs",
+		"/Users/awillis/Development/git/terrapin/views/partials/imagelist.ejs",
+		"/Users/awillis/Development/git/tmp.js",
+		"/Users/awillis/Development/OperationMongoose/Modules/Efficiencies/Artist@dev/JavaScript/Artist.Collection.js",
+		"/Users/awillis/Development/OperationMongoose/Modules/Efficiencies/Artist@dev/JavaScript/Artist.Details.View.js",
+		"/Users/awillis/Development/git/terrapin/lib/file.js",
+		"/Users/awillis/Development/git/vendatemplates/grunt/aliases.yaml",
+		"/Users/awillis/Development/OperationMongoose/Modules/Efficiencies/Artist@dev/JavaScript/Artist.Router.js",
+		"/Users/awillis/Development/OperationMongoose/Modules/Efficiencies/Artist@dev/JavaScript/Artist.js",
+		"/Users/awillis/Development/git/terrapin/public/javascript/view/showusergallery.js",
+		"/Users/awillis/Development/git/terrapin/public/javascript/ns.js",
+		"/Users/awillis/Development/git/terrapin/routes/images.js",
+		"/Users/awillis/Development/OperationMongoose/Modules/Efficiencies/Artist@dev/JavaScript/Artist.Model.js",
+		"/Users/awillis/Development/OperationMongoose/Modules/Efficiencies/Artist@dev/Templates/artist_list.tpl",
+		"/Users/awillis/Development/git/terrapin/public/templates/clientGallery.js",
+		"/Users/awillis/Development/git/terrapin/lib/gallery.js",
+		"/Users/awillis/Development/git/terrapin/routes/getgallery.js",
+		"/Users/awillis/Development/git/terrapin/data/gallery.json",
+		"/Users/awillis/Development/git/terrapin/public/javascript/model/image.js",
+		"/Users/awillis/Development/git/terrapin/public/javascript/collection/gallery.js",
+		"/Users/awillis/Downloads/terrapin-1.0/data.json",
+		"/Users/awillis/Downloads/terrapin-1.0 2/views/partials/header.ejs",
+		"/Users/awillis/Development/git/terrapin/public/javascript/collections/gallery.js",
+		"/Users/awillis/Development/git/terrapin/public/javascript/routes/home.js",
+		"/Users/awillis/Development/git/terrapin/public/javascript/router/router.js",
+		"/Users/awillis/Development/git/terrapin/public/javascript/models/image.js",
+		"/Users/awillis/Development/git/terrapin/public/javascript/lib/backbone.js",
+		"/Users/awillis/Development/git/terrapin/public/javascript/lib/underscore.js",
+		"/Users/awillis/Downloads/underscore.js",
+		"/Users/awillis/Development/git/terrapin/public/javascript/lib/lodash.js",
+		"/Users/awillis/Downloads/backbone.js",
+		"/Users/awillis/Development/git/terrapin/public/javascript/lib/require.js",
+		"/Users/awillis/Development/git/terrapin/public/javascript/lib/jquery.js",
+		"/Users/awillis/Google Drive/jsfiddle-mock.js",
+		"/Users/awillis/Development/git/terrapin/routes/updateimagelist.js",
+		"/Users/awillis/Development/git/terrapin/routes/save.js",
+		"/Users/awillis/Development/git/terrapin/lib/utils.js",
+		"/Users/awillis/Development/git/terrapin/routes/addimage.js",
+		"/Users/awillis/Development/git/terrapin/routes/nextpage.js",
+		"/Users/awillis/Development/git/terrapin/routes/getGallery.js",
+		"/Users/awillis/Development/git/terrapin/routes/updategallery.js",
+		"/Users/awillis/Development/git/terrapin/views/partials/gallery.ejs",
+		"/Users/awillis/Development/git/terrapin/routes/load.js",
+		"/Users/awillis/Development/git/terrapin/public/stylesheets/main.css",
+		"/Users/awillis/Development/git/terrapin/data.json",
+		"/Users/awillis/Development/git/terrapin/views/partials/tagcount.ejs",
+		"/Users/awillis/Development/git/terrapin/views/partials/tagcount.js",
+		"/Users/awillis/Development/git/terrapin/routes/reset.js",
+		"/Users/awillis/Development/git/terrapin/package.json",
+		"/Users/awillis/Development/OperationMongoose/Modules/Efficiencies/Artist@dev/SuiteScript/Artist.Service.ss",
+		"/Users/awillis/Development/OperationMongoose/Modules/Efficiencies/Artist@dev/JavaScript/Artist.Edit.View.js",
+		"/Users/awillis/Development/OperationMongoose/Modules/suitecommerce/MenuTree@2.0.0/JavaScript/MenuTree.View.js",
+		"/Users/awillis/Development/OperationMongoose/Modules/suitecommerce/Address@2.0.0/JavaScript/Address.js",
+		"/Users/awillis/Development/git/terrapin/routes/previouspage.js",
+		"/Users/awillis/Development/git/terrapin/views/partials/pagination.ejs",
+		"/Users/awillis/Development/git/terrapin/node_modules/instagram-node/lib/instagram.js",
+		"/Users/awillis/Development/git/terrapin/node_modules/instagram-node/index.js",
+		"/Users/awillis/Development/git/terrapin/node_modules/instagram-node/config.js",
+		"/Users/awillis/Development/git/terrapin/routes/removeimageg.js",
+		"/Users/awillis/Development/git/terrapin/gallery.js",
+		"/Users/awillis/Development/git/terrapin/auth.js",
+		"/Users/awillis/Development/git/terrapin/lib/auth.js",
+		"/Users/awillis/Development/git/node-js-getting-started/index.js",
+		"/Users/awillis/Development/git/node-js-getting-started/node_modules/cool-ascii-faces/index.js",
+		"/Users/awillis/Development/git/node-js-getting-started/auth.js",
+		"/Users/awillis/Development/git/terrapin/views/pages/manager.ejs",
+		"/Users/awillis/Development/OperationMongoose/Modules/suitecommerce/SspLibraries@2.0.0/SuiteScript/SC.Model.js",
+		"/Users/awillis/Development/OperationMongoose/Modules/Efficiencies/Artist@dev/SuiteScript/Artist.Model.js",
+		"/Users/awillis/Development/OperationMongoose/Modules/suitecommerce/SCA@2.0.0/JavaScript/SC.Configuration.js",
+		"/Users/awillis/Development/OperationMongoose/Modules/suitecommerce/BackboneExtras@2.0.0/JavaScript/Backbone.Model.js",
+		"/Users/awillis/Development/git/terrapin/.env",
+		"/Users/awillis/Development/git/node-js-getting-started/package.json",
+		"/Users/awillis/Development/git/node-js-getting-started/app.json",
+		"/Users/awillis/Development/git/terrapin/README.md",
+		"/Users/awillis/Development/git/terrapin/Procfile",
+		"/Users/awillis/Development/git/nsig/.gitattributes",
+		"/Users/awillis/Development/git/node-js-getting-started/Procfile",
+		"/Users/awillis/Development/.gitignore",
+		"/Users/awillis/Development/git/node-js-getting-started/.env",
+		"/Users/awillis/Development/OperationMongoose/Modules/Efficiencies/OrderWizard.Module.DeliveryInstructions@dev/templates/delivery_instructions.tpl",
+		"/Users/awillis/Development/OperationMongoose/distro.json",
+		"/Users/awillis/Development/OperationMongoose/Modules/suitecommerce/CheckoutApplication@2.0.0/JavaScript/SC.Checkout.Configuration.js",
+		"/Users/awillis/Development/OperationMongoose/package.json",
+		"/Users/awillis/Development/OperationMongoose/Modules/Efficiencies/InstallationInstructions@dev/JavaScript/InstallationInstructions.js",
+		"/Users/awillis/Development/OperationMongoose/Modules/Efficiencies/InstallationInstructions@dev/ns.package.json",
+		"/Users/awillis/Development/OperationMongoose/gulp/package-manager/index.js",
+		"/Users/awillis/Development/OperationMongoose/gulp/tasks/jshint.js",
+		"/Users/awillis/Development/OperationMongoose/gulpfile.js",
+		"/Users/awillis/Development/OperationMongoose/gulp/jshint-reporter/index.js",
+		"/Users/awillis/Development/OperationMongoose/Modules/Efficiencies/Artist@dev/Sass/_artist-edit.scss",
+		"/Users/awillis/Development/OperationMongoose/Modules/suitecommerce/BaseSassStyles@1.0.1/Sass/atoms/_forms.scss",
+		"/Users/awillis/Development/OperationMongoose/Modules/Efficiencies/Artist@dev/Templates/artist_edit.tpl",
+		"/Users/awillis/Development/OperationMongoose/Modules/Efficiencies/Artist@dev/ns.package.json",
+		"/Users/awillis/Development/OperationMongoose/.gitignore"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"client",
+			"{\n",
+			"d",
+			");\n",
+			"backbone",
+			" ",
+			"Gallery",
+			"routeHome",
+			":",
+			" ",
+			"\n  ",
+			"underscore",
+			"}\n",
+			"Bob",
+			"app_router",
+			".ejs",
+			"data",
+			"        console.log(data);\n",
+			"33aa66",
+			"40px",
+			"('./",
+			"\n",
+			"tag_media_r",
+			"pagination",
+			"con",
+			"tag_media_recent",
+			"added",
+			"itemde",
+			"flatte",
+			"label",
+			"data-in",
+			"sass",
+			"artist",
+			".model",
+			".Model",
+			"Address",
+			"context",
+			"notFou",
+			"notfou",
+			"render",
+			"render:",
+			"rend",
+			"node",
+			" ",
+			";\n",
+			"r",
+			"5",
+			"10px",
+			"Latest",
+			"ffaaaa",
+			"grunt-",
+			"automation",
+			"JSInspect",
+			"40px",
+			"<!doctype html>\n<html lang=\"en\">\n\n	<head>\n		<meta charset=\"utf-8\">\n\n		<title>JavaScript Update</title>\n\n		<meta name=\"description\" content=\"JavaScript Update\">\n		<meta name=\"author\" content=\"Andy Willis\">\n\n		<!-- Hide from search engines -->\n		<meta name=\"robots\" content=\"noindex\">\n\n		<meta name=\"apple-mobile-web-app-capable\" content=\"yes\" />\n		<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"black-translucent\" />\n\n		<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui\">\n\n		<link rel=\"stylesheet\" href=\"css/reveal.css\">\n\n		<link rel=\"stylesheet\" href=\"css/theme/black.css\" id=\"theme\">\n\n		<link rel=\"stylesheet\" href=\"css/theme/venda.css\">\n\n		<!-- Code syntax highlighting -->\n		<link rel=\"stylesheet\" href=\"lib/css/zenburn.css\">\n\n		<!-- Printing and PDF exports -->\n		<script>\n			var link = document.createElement( 'link' );\n			link.rel = 'stylesheet';\n			link.type = 'text/css';\n			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';\n			document.getElementsByTagName( 'head' )[0].appendChild( link );\n		</script>\n\n		<!--[if lt IE 9]>\n		<script src=\"lib/js/html5shiv.js\"></script>\n		<![endif]-->\n	</head>\n\n	<body>\n\n		<div class=\"reveal\">\n\n			<!-- Any section element inside of this container is displayed as a slide -->\n			<div class=\"slides\">\n\n\n				<section data-background=\"assets/venue.jpg\">\n					<div class=\"main-header\">\n						<h2>JavaScript Update</h2>\n\n						<p>\n							<small>Andy Willis<br>JavaScript Developer</small>\n						</p>\n					</div>\n				</section>\n\n        <section data-transition=\"fade\">\n          <h1 style=\"font-size: 150px;text-shadow: 0px 0px 50px rgba(255, 255, 255, 1);\">REFACTOR</h1>\n        </section>\n\n        <section data-transition=\"fade\">\n        <section>\n          <h1 style=\"font-size: 150px;text-shadow: 0px 0px 50px rgba(255, 255, 255, 1);\">Audit</h1>\n          </section>\n          <section>\n          <h2 style=\"margin-bottom: 100px;font-size: 100px;text-shadow: 0px 0px 50px rgba(255, 255,255, 1);\">Expectations</h2>\n            <p style=\"margin-bottom: 35px\">Benchmark current state of the Venda code base</p>\n            <p>Improved tracking of Venda and third-party JavaScript</p>\n          </section>\n          <section>\n          <h2 style=\"margin-bottom: 100px;font-size: 100px;text-shadow: 0px 0px 50px rgba(255, 255,255, 1);\">Outcome</h2>\n            <p style=\"margin-bottom: 35px\">Benchmark current state of the Venda code base</p>\n            <p style=\"margin-bottom: 35px\">Improved tracking of Venda and third-party JavaScript</p>\n            <p class=\"fragment\" style=\"color: #ffff00;text-shadow: 0px 0px 10px rgba(255, 255, 255, 1);\">&mdash;&nbsp;Identify code weaknesses and unneeded scripts&nbsp;&mdash;</p>\n          </section>\n        <section>\n          <h2 style=\"margin-bottom: 30px;font-size: 100px;text-shadow: 0px 0px 50px rgba(255, 255,255, 1);\">Fact sheet</h2>\n        <table style=\"border-collapse: collapse; border: 1px solid #ffffff; width: 90%; font-size: 30px;text-shadow: 0px 0px 50px rgba(255, 255,255, 1);\">\n          <thead>\n            <th></th>\n            <th>Pre-refactor</th>\n            <th>Post-refactor</th>\n          </thead>\n          <tbody>\n            <tr><td>Number of files</td><td>47</td><td>43<superscript style=\"font-size: 20px\">[2]</superscript></td></tr>\n            <tr><td>Lines of code</td><td>10, 500</td><td>15, 000<superscript style=\"font-size: 20px\">[1]</superscript></td></tr>\n            <tr><td>Size (K, unminified)<td>360</td><td>455<superscript style=\"font-size: 20px\">[2]</superscript></td></tr>\n          </tbody>\n        </table>\n          <p style=\"text-align:left; font-size: 20px\">[1] New header account 43 * 20 = 860 additional LOC</p>\n          <p style=\"text-align:left; font-size: 20px\">[2] Introduction of new modulesM</p>\n          <p style=\"text-align:left; font-size: 20px\">[3] Contatenation of old modules - attributes.js, validation.</p>\n          </section>\n          <section>\n          <h2 style=\"margin-bottom: 100px;font-size: 100px;text-shadow: 0px 0px 50px rgba(255, 255,255, 1);\">Actions</h2>\n            <p style=\"margin-bottom: 35px\">Add UMD to modularise code</p>\n            <p style=\"margin-bottom: 35px\">Remove jQueryUI</p>\n          </section>\n        </section>\n\n        <section data-transition=\"fade\">\n          <h2>Refactor and cleanup</h2>\n          <section>\n          <h4 style=\"color: #ffff00\">Expectations</h4>\n          <ul>\n            <li>Future proof code</li>\n            <li>Improved code style and consistency</li>\n          </ul>\n          </section>\n          <section>\n          <h4 style=\"color: #ffff00\">Expectations</h4>\n          <ul>\n            <li>Future proof code</li>\n            <li>Improved code style and consistency</li>\n            <li>Lots of experimentation with alternative JS libraries</li>\n            <li>Testing</li>\n          </ul>\n          </section>\n        </section>\n\n        <section data-transition=\"fade\">\n          <h2>Module</h2>\n          <img src=\"assets/module.png\"/>\n        </section>\n\n        <section data-transition=\"fade\">\n          <h2>Tooling and continous integration</h2>\n          <section>\n          <ul>\n            <li>Improved development workflow/cycle</li>\n            <li>Catch code errors before they are deployed</li>\n          </ul>\n          </section>\n        </section>\n\n        <section data-transition=\"fade\">\n          <h2>Testing</h2>\n          <ul>\n            <li class=\"fragment\">Tape/tap, Mocha, Intern, and Nightwatch</li>\n            <li class=\"fragment\">Introduce unit/functional testing where necessary</li>\n          </ul>\n        </section>\n\n        <section data-transition=\"fade\">\n          <h2>Extend</h2>\n          <section>\n          <ul>\n            <li><a href=\"https://docs.venda.com/display/developertraining/Extending+the+Venda+core+codebase\">Allows clients to extend the Venda codebase without touching the core code</a></li>\n          </ul>\n          </section>\n          <section>\n            <h4>Add/replace existing properties/methods</h4>\n            <pre><code>Venda.extend(Venda, 'name', 'Venda JavaScript codebase');</code></pre>\n            <pre><code>Venda.extend(Venda, 'getName', function () {\n  return this.name;\n});</code></pre>\n          </section>\n          <section>\n            <h4>Real-life example</h4>\n            <pre><code>pulsate: function (el) {\n  el.addClass('pulsate');\n  el.one('webkitAnimationEnd oanimationend animationend',\n  function (e) {\n    el.removeClass('pulsate');\n  });\n},\n</code></pre><hr/>\n            <pre><code>Venda.extend(Venda.Minicart, 'pulsate', function (el) {\n  el.addClass('pulsateClient');\n  el.one('webkitAnimationEnd oanimationend animationend',\n  function (e) {\n    el.removeClass('pulsateClient');\n  });\n});</code></pre>\n          </section>\n        </section>\n\n        <section data-transition=\"fade\">\n          <h2>Further work</h2>\n          <ul>\n            <li>ES6 / Babel / Browserify</li>\n            <li>Performance enhancements</li>\n            <li>Improved testing</li>\n          </ul>\n        </section>\n\n        <section data-transition=\"fade\">\n          <h2>Questions</h2>\n        </section>\n\n			</div>\n\n		</div>\n\n		<script src=\"lib/js/head.min.js\"></script>\n		<script src=\"js/reveal.js\"></script>\n\n		<script>\n\n			// Full list of configuration options available here:\n			// https://github.com/hakimel/reveal.js#configuration\n			Reveal.initialize({\n				controls: true,\n				progress: true,\n				history: true,\n				center: true,\n\n				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme\n				//transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none\n\n				// Parallax scrolling\n				parallaxBackgroundImage: 'assets/nebula4_big_dark2.png',\n				parallaxBackgroundSize: '4000px 2250px',\n				transition: 'linear',\n\n				// Optional libraries used to extend on reveal.js\n				dependencies: [\n					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },\n					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },\n					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },\n					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },\n					{ src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },\n					{ src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }\n				]\n			});\n\n		</script>\n\n	</body>\n</html>\n",
+			"Identify",
+			"\n        ",
+			"\"Visits\"",
+			"\"Viewed\"",
+			"\"Cart\"",
+			"\"orders\"",
+			"\">\n",
+			"createpr",
+			"showno",
+			"legacy",
+			".js",
+			"\n      ",
+			"Firefox",
+			"\\n\\n",
+			"-",
+			"amdre",
+			"number",
+			"grep",
+			"-*'",
+			"<form",
+			"merchant",
+			"mercha",
+			"getdata",
+			"compiled",
+			"getinf",
+			"getda",
+			"getd",
+			"goog",
+			"hasgoo",
+			"processpos",
+			"domin",
+			"util.",
+			"util",
+			"join",
+			"camel",
+			"storelocatorlookup",
+			";",
+			"name",
+			"utils",
+			"dopro",
+			"protit",
+			"checkpr",
+			".name",
+			"();\n",
+			"html5",
+			"pulsate",
+			"'!!';",
+			"null",
+			"platfor",
+			"tag",
+			"090450762/149",
+			"/js/app",
+			"/js/lib",
+			"/js/app",
+			"/js/lib",
+			"ui",
+			"vali",
+			"jquery",
+			"jqu",
+			"effect",
+			"pulsate",
+			"done",
+			"setmode",
+			"storeloca",
+			"venda.",
+			"storeloca",
+			"jQuery",
+			"jquery.va",
+			"valida",
+			"release",
+			"      ",
+			"release",
+			"promises"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"router",
+			"Artist",
+			", \"Visits\"",
+			", \"Viewed\"",
+			", \"Cart\"",
+			", \"orders\"",
+			"\\n",
+			"",
+			"utils.",
+			"js/app",
+			"js/lib",
+			"js/app",
+			"js/lib",
+			"$",
+			"$(",
+			"$.",
+			"$(",
+			"$.",
+			"$(",
+			"SwatchURL",
+			"this.",
+			"$(",
+			"this.",
+			"$.",
+			"$(",
+			"this.",
+			"$.",
+			"$(",
+			"this.",
+			"$.",
+			"$(",
+			"this.",
+			"small",
+			"utilities",
+			"./utilties/",
+			"",
+			"./",
+			"false",
+			"true",
+			"ext",
+			"external",
+			"\"",
+			"jQuery(",
+			"utilities",
+			"$",
+			"Attributes.prototype.",
+			"attributes.",
+			"minicartdetail",
+			"utilities.",
+			"utilities",
+			"$("
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 52.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "terrapin.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
